@@ -1,0 +1,15 @@
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/bin/Debug/net7.0/BubbleSortAlgorithm
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/bin/Debug/net7.0/BubbleSortAlgorithm.deps.json
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/bin/Debug/net7.0/BubbleSortAlgorithm.runtimeconfig.json
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/bin/Debug/net7.0/BubbleSortAlgorithm.dll
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/bin/Debug/net7.0/BubbleSortAlgorithm.pdb
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/obj/Debug/net7.0/BubbleSortAlgorithm.csproj.AssemblyReference.cache
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/obj/Debug/net7.0/BubbleSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/obj/Debug/net7.0/BubbleSortAlgorithm.AssemblyInfoInputs.cache
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/obj/Debug/net7.0/BubbleSortAlgorithm.AssemblyInfo.cs
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/obj/Debug/net7.0/BubbleSortAlgorithm.csproj.CoreCompileInputs.cache
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/obj/Debug/net7.0/BubbleSortAlgorithm.dll
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/obj/Debug/net7.0/refint/BubbleSortAlgorithm.dll
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/obj/Debug/net7.0/BubbleSortAlgorithm.pdb
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/obj/Debug/net7.0/BubbleSortAlgorithm.genruntimeconfig.cache
+/Users/burakkaracakaya/Desktop/my github/BubbleSortAlgorithm/BubbleSortAlgorithm/obj/Debug/net7.0/ref/BubbleSortAlgorithm.dll
